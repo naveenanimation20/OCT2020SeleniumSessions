@@ -1,0 +1,22 @@
+TestNG : UNIT Testing F/W
+Open Source
+
+1. Eclipse testng plugin:
+https://dl.bintray.com/testng-team/testng-eclipse-release/6.14.3/
+
+2. add testng dep in pom.xml
+
+testNG:
+1. maintain the test cases
+2. diff annotations
+3. order
+4. parameterization -- DD 
+5. Assertions
+6. HTML Reports
+7. Testing Reporting Listeners -- Extent, Allure Report
+8. test runners -- testng.xml file
+9. parallel testing 
+
+
+
+
